@@ -90,7 +90,7 @@ Project Drishti is an advanced AI-powered situational awareness platform designe
 
 ### 1. Clone Repository
 ```bash
-git clone https://github.com/i-suhas/project-drishti.git
+git clone https://github.com/satwikmyneni/Event-manager.git
 cd project-drishti
 ```
 
@@ -305,10 +305,6 @@ export STREAMLIT_LOGGER_LEVEL=debug
 streamlit run streamlit_app.py
 ```
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 🙏 Acknowledgments
 
 - Google AI Platform for advanced AI capabilities
@@ -318,9 +314,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-- **Issues**: [GitHub Issues](https://github.com/i-suhas/project-drishti/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/i-suhas/project-drishti/discussions)
-- **Email**: [Contact Developer](mailto:your-email@example.com)
+- **Issues**: [GitHub Issues](https://github.com/satwikmyneni/Event-manageri/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/satwikmyneni/Event-manager/discussions)
+- **Email**: [Contact Developer](mailto:mynenisatvik@gmail.com)
 
 ---
 
